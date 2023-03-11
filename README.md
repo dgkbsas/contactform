@@ -8,3 +8,4 @@ EMAILJS
 MAILGUN
 
 run install `npm install`
+run install `npm i @emailjs/browser` for emailJS service
